@@ -4,10 +4,11 @@
 
 ##### 秦皇岛博易科技项目开前端开发项目
 
-1. [秦皇岛博易科技项目主页(移动端)](http://www.qhdboyi.com/)
-2. [秦皇岛博易科技教学主页(移动端)](http://edu.qhdboyi.com/)
-3. [秦皇岛钰尚舞舞蹈学校主页(移动端)](http://www.qhdyushangwu.com/)
-4. [秦皇岛宇时建筑主页(移动端)](http://www.qhdysjz.com/)
+1. [秦皇岛博易科技项目网站(pc+移动端)](http://www.qhdboyi.com/)
+2. [秦皇岛博易科技教学网站(pc+移动端)](http://edu.qhdboyi.com/)
+3. [秦皇岛钰尚舞舞蹈学校网站(pc+移动端)](http://www.qhdyushangwu.com/)
+4. [秦皇岛宇时建筑网站(pc+移动端)](http://www.qhdysjz.com/)
+5. [秦皇岛深海设计网站(pc+移动端)](http://www.qhdshsj.com/)
 
 #### 教学部分
 
