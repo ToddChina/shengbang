@@ -13,11 +13,10 @@
 
 ##### 秦皇岛博易科技教学开发
 
-1. [html5+css3课程开发]:
-2. [响应式课程开发](https://coding.net/u/ToddChina/p/responsive_design_p/git/)
-3. [canvas画布基础及动画编程课程开发](https://coding.net/u/ToddChina/p/)html5-canvas/git/
-4. [echarts数据可视化课程开发](https://coding.net/u/ToddChina/p/Data-Visualization-Echarts/git/)
-5. [flex弹性盒子布局基础课程开发](https://coding.net/u/ToddChina/p/css-flex/git/)
-6. [css预处理器sass框架](https://coding.net/u/ToddChina/p/Front-end_Tools_sass/git/)
-7. [vue实战项目课程开发](https://coding.net/u/ToddChina/p/Vue_Project_Alpha/git/)
-8. [Axure项目原型设计课程开发](https://coding.net/u/ToddChina/p/Axure_test/git/)
+1. [响应式课程开发](https://coding.net/u/ToddChina/p/responsive_design_p/git/)
+2. [canvas画布基础及动画编程课程开发](https://coding.net/u/ToddChina/p/html5-canvas/git/)
+3. [echarts数据可视化课程开发](https://coding.net/u/ToddChina/p/Data-Visualization-Echarts/git/)
+4. [flex弹性盒子布局基础课程开发](https://coding.net/u/ToddChina/p/css-flex/git/)
+5. [css预处理器sass框架](https://coding.net/u/ToddChina/p/Front-end_Tools_sass/git/)
+6. [vue实战项目课程开发](https://coding.net/u/ToddChina/p/Vue_Project_Alpha/git/)
+7. [Axure项目原型设计课程开发](https://coding.net/u/ToddChina/p/Axure_test/git/)
